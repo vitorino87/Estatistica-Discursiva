@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <string name="app_name">Estabilidade Discursiva</string>
+    <string name="q0">[O que é mecânica] Qual é a ciência que pode ser definida como a ciência que descreve e prevê as condições de repouso ou movimento dos corpos sob a ação de forças?</string>
+    <string name="q0a">Resp.: mecânica</string>
+    <string name="q1">[O que é mecânica] Quais são as partes da mecânica?</string>
+    <string name="q1a">Resp.: mecânica dos corpos rígidos, mecânica dos corpos deformáveis, mecânica dos fluidos</string>
+    <string name="q2">[O que é mecânica] Como é dividida a mecânica dos corpos rígidos?</string>
+    <string name="q2a">Resp.: estática, dinâmica</string>
+    <string name="q3">[O que é mecânica] Complete: A estática trata dos corpos em ________.</string>
+    <string name="q3a">Resp.: repouso</string>
+    <string name="q4">[O que é mecânica] Complete: A dinâmica trata dos corpos em ________.</string>
+    <string name="q4a">Resp.: movimento</string>
+    <string name="q5">[O que é mecânica] Nesta parte do estudo da mecânica, os corpos são considerados __________ rígidos</string>
+    <string name="q5a">Resp.: perfeitamente</string>
+    <string name="q6">[O que é mecânica] Complete: No entanto, as estruturas e máquinas reais nunca são absolutamente ___________ mas se deformam sob a ação das cargas a que estão sujeitas. Essas deformações, contudo, geralmente são pequenas e não afetam de modo sensível as condições de __________ ou movimento da estrutura a ser estudada. São importantes, por outro lado, na medida em que a resistência da estrutura a falhas seja levada em consideração sendo por isso estudadas na mecânica dos materiais, a parte da mecânica que trata dos corpos deformáveis.</string>
+    <string name="q6a">Resp.: rígidas, equilíbrio</string>
+    <string name="q7">[O que é mecânica] Complete: A mecânica é uma ciência física, pois trata do estudo de fenômenos físicos. Todavia, alguns associam a mecânica à ___________, enquanto muitos a consideram um assunto de ___________.</string>
+    <string name="q7a">Resp.: matemática, engenharia</string>
+    <string name="q8">[Conceitos e princípios fundamentais] Embora o estudo da mecânica remonte aos tempos de Aristóteles (384-322 a.C.) e Arquimedes (287-212 a.C), foi preciso esperar até Newton (1642-1727) para que houvesse uma formulação satisfatória de seus princípios fundamentais. Esses princípios foram posteriormente expressos de maneira diferente por ________, ________ e ________. </string>
+    <string name="q8a">Resp.: d’Alembert, Lagrange, Hamilton</string>
+    <string name="q9">[Conceitos e princípios fundamentais] A validade da mecânica permaneceu incontestada, até Einstein formular sua ________ (1905). Apesar de suas limitações serem hoje reconhecidas, a mecânica newtoniana ainda continua sendo a base das ciências da engenharia atuais.</string>
+    <string name="q9a">Resp.: teoria da relatividade</string>
+    <string name="q10">[Conceitos e princípios fundamentais] Quais são os conceitos básicos usados em mecânica?</string>
+    <string name="q10a">Resp.: espaço, tempo, massa, força. </string>
+    <string name="q11">[Conceitos e princípios fundamentais] Quais são os conceitos da mecânica que não podem ser verdadeiramente definidos; devem ser aceitos com base em nossa intuição e experiência e usados como um conjunto de referências mentais para o nosso estudo de mecânica?</string>
+    <string name="q11a">Resp.: espaço, tempo, massa, força. </string>
+    <string name="q12">[Conceitos e princípios fundamentais] Qual é o conceito que está associado à noção de posição de um ponto P? </string>
+    <string name="q12a">Resp.: espaço</string>
+    <string name="q13">[Conceitos e princípios fundamentais] Como sabemos para se definir um evento, não é suficiente indicar a sua posição no espaço. O que mais deve ser fornecido para a definição do evento?</string>
+    <string name="q13a">Resp.: tempo</string>
+    <string name="q14">[Conceitos e princípios fundamentais] Qual é o conceito que é usado para caracterização e comparação de corpos com base em certos experimentos mecânicos fundamentais? </string>
+    <string name="q14a">Resp.: massa</string>
+    <string name="q15">[Conceitos e princípios fundamentais] Qual é o conceito que representa a ação de um corpo sobre outro?</string>
+    <string name="q15a">Resp.: força </string>
+    <string name="q16">[Conceitos e princípios fundamentais] Complete: A força pode ser exercida por contato direto ou à distância, como no caso das forças ________ e ________. </string>
+    <string name="q16a">Resp.: magnéticas, gravitacionais</string>
+    <string name="q17">[Conceitos e princípios fundamentais] Uma força é caracterizada pelo seu ponto de aplicação, sua intensidade e sua direção; uma força é representada por um ________.</string>
+    <string name="q17a">Resp.: vetor</string>
+    <string name="q18">[Conceitos e princípios fundamentais] Complete: Na mecânica newtoniana, espaço, tempo e massa são conceitos ________, independentes entre si. (Isto não vale para mecânica relativística, na qual o tempo de um evento depende da sua posição e a massa de um corpo varia com sua velocidade.) </string>
+    <string name="q18a">Resp.: absolutos </string>
+    <string name="q19">[Conceitos e princípios fundamentais] Um ________ é uma combinação de um grande número de partículas que ocupam posições fixas umas em relação às outras.</string>
+    <string name="q19a">Resp.: corpo rígido</string>
+    <string name="q20">[Conceitos e princípios fundamentais] O estudo da mecânica de partículas é obviamente um pré-requisito para o estudo dos corpos rígidos. Além disso, os resultados obtidos para uma partícula podem ser usados diretamente em um grande número de problemas que tratam das condições de ________ ou ________ de corpos reais.</string>
+    <string name="q20a">Resp.: repouso, movimento</string>
+    <string name="q21">[Conceitos e princípios fundamentais] Qual é a lei que estabelece que duas forças que atuam sobre uma partícula podem ser substituídas por uma única força, denominada resultante, que se obtém traçando-se a diagonal do paralelogramo cujos lados são iguais às forças dadas?</string>
+    <string name="q21a">Resp.: lei do paralelogramo para a adição de forças ou paralelogramo para a adição de forças</string>
+    <string name="q22">[Conceitos e princípios fundamentais] Qual é o princípio que estabelece que as condições de equilíbrio ou movimento de um corpo rígido permanecerão inalteradas se uma força que atue em um dado ponto do corpo rígido for substituída por uma força de igual magnitude e de igual direção, porém atuando em um ponto diferente, desde que as duas forças tenham a mesma linha de ação?</string>
+    <string name="q22a">Resp.: princípio da transmissibilidade ou transmissibilidade</string>
+    <string name="q23">[Conceitos e princípios fundamentais] De qual das leis de Newton, a seguinte sentença está falando: As forças de ação e reação entre corpos em contato têm a mesma intensidade, a mesma linha de ação e sentidos opostos?</string>
+    <string name="q23a">Resp.: TERCEIRA LEI</string>
+    <string name="q24">[Conceitos e princípios fundamentais] De qual das leis de Newton, a seguinte sentença está falando: Se a força resultante que atua em uma partícula for nula, a partícula permanecerá em repouso (se originalmente em repouso) ou se moverá em velocidade constante em linha reta (se originalmente em movimento)?</string>
+    <string name="q24a">Resp.: PRIMEIRA LEI</string>
+    <string name="q25">[Conceitos e princípios fundamentais] De qual das leis de Newton, a seguinte sentença está falando: Se a força resultante que atua sobre uma partícula não for nula, a partícula terá uma aceleração de magnitude proporcional à magnitude da resultante e na mesma direção dessa força resultante?</string>
+    <string name="q25a">Resp.: SEGUNDA LEI</string>
+    <string name="q26">[Conceitos e princípios fundamentais] Qual é a equação que representa a segunda lei de Newton?</string>
+    <string name="q26a">Resp.: F = m.a ou F=m.a</string>
+    <string name="q27">[Conceitos e princípios fundamentais] Qual é a lei de Newton que estabelece que duas partículas de massa M e m são mutuamente atraídas com forças iguais e opostas F e -F de magnitude F?</string>
+    <string name="q27a">Resp.: Lei de Newton da gravitação ou gravitação</string>
+    <string name="q28">[Conceitos e princípios fundamentais] Qual é a equação que representa a lei de gravitação de Newton? Onde: \n- r é a distância entre as duas partículas \n- G é a constante universal denominada constante gravitacional</string>
+    <string name="q28a">Resp.: F = G.(M.m)/(r^2) ou F=G.(M.m)/(r^2)</string>
+    <string name="q29">[Conceitos e princípios fundamentais] A lei de Newton da gravitação introduz a ideia de uma ação exercida a distância e amplia a faixa de aplicação da ________ lei de Newton: a ação F e a reação -F são iguais e opostas, e têm a mesma linha de ação.</string>
+    <string name="q29a">Resp.: terceira</string>
+    <string name="q30">[Conceitos e princípios fundamentais] Complete: Um caso particular de grande importância é a atração exercida pela Terra sobre uma partícula localizada na sua superfície. A força F exercida pela Terra sobre a partícula é então definida como o peso W (do inglês, weight) da partícula. Considerando-se M igual à massa da Terra, m igual à massa da partícula e r igual ao raio R da Terra, e introduzindo-se a constante ________ a magnitude do peso W de uma partícula de massa m pode ser expressa como W = m.g. </string>
+    <string name="q30a">Resp.: g = (G.M)/R^2 ou g=(G.M)/R^2</string>
+    <string name="q31">[Conceitos e princípios fundamentais] O valor de R na equação ________ depende da altitude do ponto considerado; depende também da sua latitude, pois a Terra não é perfeitamente esférica. Portanto, o valor de g varia com a posição do ponto considerado. Desde que o ponto realmente permaneça sobre a superfície da Terra, basta, na maior parte dos cálculos de engenharia, admitir que g seja igual a 9,81 m/s^2.</string>
+    <string name="q31a">Resp.: g = (G.M)/R^2 ou g=(G.M)/R^2</string>
+    <string name="q32">[Conceitos e princípios fundamentais] A primeira e a terceira leis de Newton, a lei do ________ para a adição de forças e o princípio de ________ irão prover dos fundamentos necessários e suficientes para o estudo completo da estática de partículas, de corpos rígidos e de sistemas de corpos rígidos.</string>
+    <string name="q32a">Resp.: paralelogramo, transmissibilidade</string>
+    <string name="q33">[Conceitos e princípios fundamentais] Complete: Conforme observamos, os seis princípios fundamentais listados são baseados em evidência experimental. Com exceção da ________ lei de Newton e do princípio de ________, são princípios independentes que não podem ser deduzidos matematicamente a partir dos demais ou a partir de qualquer outro princípio físico elementar.</string>
+    <string name="q33a">Resp.: primeira, transmissibilidade</string>
+    <string name="q34">[Conceitos e princípios fundamentais] Sobre quatros princípios está baseada a maior parte da intricada estrutura da mecânica newtoniana. Por mais de dois séculos, um número espantoso de problemas, tratando das condições de repouso e movimento de corpos rígidos, de corpos ________ e de ________, foi resolvido pela aplicação desses princípios fundamentais. </string>
+    <string name="q34a">Resp.: deformáveis, fluidos</string>
+    <string name="q35">[Sistemas de unidades] Associadas aos quatro conceitos fundamentais apresentados na seção anterior, estão as chamadas unidades ________, isto é, as unidades de comprimento, tempo, massa e força.</string>
+    <string name="q35a">Resp.: cinéticas</string>
+    <string name="q36">[Sistemas de unidades] Complete: O ________, originalmente escolhido para representar 1/86.400 do dia solar médio, é agora definido como a duração de 9.192.631.770 períodos da radiação correspondente à transição entre dois níveis do estado fundamental do átomo de césio-133. </string>
+    <string name="q36a">Resp.: segundo</string>
+    <string name="q37">[Sistemas de unidades] O ________, originalmente definido como um décimo de milionésimo da distância do equador a cada polo, é agora definido como 1.650.763,73 comprimentos de onda da luz laranja-vermelha, que correspondem a uma certa transição em um átomo de criptônio-86. </string>
+    <string name="q37a">Resp.: metro</string>
+    <string name="q38">[Sistemas de unidades] O ________, que é aproximadamente igual à massa de 0,001 m3 de água, é definido como a massa de um padrão de platina-irídio mantido no Bureau Internacional de Pesos e Medidas, em Sèvres, próximo a Paris, França.</string>
+    <string name="q38a">Resp.: quilograma</string>
+    <string name="q39">[Sistemas de unidades] Diz-se que as unidades do SI formam um sistema absoluto de unidades. Isso significa que as três unidades básicas escolhidas são independentes do local em que as medições são feitas. O ________, o ________ e o ________ podem ser usados em qualquer lugar da Terra; podem ser usados, inclusive, em outro planeta, e sempre terão o mesmo significado.</string>
+    <string name="q39a">Resp.: metro, quilograma, segundo</string>
+    <string name="q40">[Sistemas de unidades] O peso de um corpo, ou a força da gravidade exercida sobre esse corpo, deve ser expresso em ________, como qualquer outra força.</string>
+    <string name="q40a">Resp.: newtons</string>
+    <string name="q41">[Sistemas de unidades] O fato dos corpos, no sistema de unidades usuais nos Estados Unidos, serem caracterizados pelo seu peso em libras, em vez de sua massa em slugs, será conveniente no estudo de estática, no qual lidamos constantemente com pesos e outras forças e apenas raramente com massas. Porém, no estudo de dinâmica, que envolve forças, massas e acelerações, a massa m de um corpo será expressa em slugs quando seu peso W for dado em ________.</string>
+    <string name="q41a">Resp.: libras</string>
+    <string name="q42">[Sistemas de unidades] 1 ft equivale a quantos metros?</string>
+    <string name="q42a">Resp.: 0,3048 m ou 0,3048</string>
+    <string name="q43">[Sistemas de unidades] 1 mi equivale a quantos metros?</string>
+    <string name="q43a">Resp.: 1609 m ou 1609</string>
+    <string name="q44">[Sistemas de unidades] 1 in equivale a quantos pés (ft)?</string>
+    <string name="q44a">Resp.: 1/12 ft ou 1/12</string>
+    <string name="q45">[Sistemas de unidades] 1 in equivale a quantos metros?</string>
+    <string name="q45a">Resp.: 0,0254 m ou 0,0254</string>
+    <string name="q46">[Sistemas de unidades] 1 slug equivale a quantos quilos?</string>
+    <string name="q46a">Resp.: 14,59 kg ou 14,59</string>
+    <string name="q47">[Sistemas de unidades] 1 lb equivale a quantos newtons?</string>
+    <string name="q47a">Resp.: 4,448 N ou 4,448</string>
+
+</resources>
